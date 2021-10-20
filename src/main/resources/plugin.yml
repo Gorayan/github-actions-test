@@ -1,0 +1,4 @@
+name: ExposedSample
+version: '${version}'
+main: net.gorayan.mc.exposedsample.ExposedSample
+api-version: 1.17
